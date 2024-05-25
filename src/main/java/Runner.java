@@ -8,5 +8,8 @@ public class Runner {
         //versiyon 4
         System.out.println("Hi");
 
+        //versiyon 7
+        System.out.println("");
+
     }
 }
